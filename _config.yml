@@ -7,3 +7,9 @@ keywords:
 author: Yang
 language: zh-CN
 timezone: ''
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: 'git'
+  repo: git@github.com:duizhanghenmang/duizhanghenmang.github.io.git
+  branch: master
