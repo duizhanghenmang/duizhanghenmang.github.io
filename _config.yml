@@ -1,1 +1,9 @@
 theme: jekyll-theme-merlot
+# Site
+title:  blog
+subtitle: ''
+description: Just Do It,But Not Just Do It.
+keywords:
+author: Yang
+language: zh-CN
+timezone: ''
